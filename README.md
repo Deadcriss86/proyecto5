@@ -1,2 +1,1 @@
-# David Marroquin
 # proyecto5
